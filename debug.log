@@ -1,0 +1,4 @@
+[1227/185429.073:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\alxjp\AppData\Roaming\Brackets\live-dev-profile\Crashpad\attachments\c57c0b13-a178-4224-a51d-6c50b4501f4c: The system cannot find the path specified. (0x3)
+[1227/185537.087:ERROR:http_transport_win.cc(349)] WinHttpWriteData: The operation completed successfully. (0x0)
+[1227/190429.167:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1227/233852.891:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
